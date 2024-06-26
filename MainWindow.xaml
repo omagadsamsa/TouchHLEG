@@ -65,6 +65,11 @@
             <ComboBoxItem Content="Mystery Mania" />
             <ComboBoxItem Content="Donut Games" />
             <ComboBoxItem Content="Wolfenstein 3D" />
+            <ComboBoxItem Content="KataDama (I Love Katamari)" />
+            <ComboBoxItem Content="Wolfenstein RPG" />
+            <ComboBoxItem Content="Doom II RPG" />
+            <ComboBoxItem Content="Tony Hawk's Pro Skater 2" />
+            <ComboBoxItem Content="Warrior Nation Blade" />
         </ComboBox>
         <Button x:Name="LoadBtn" Content="Load" HorizontalAlignment="Left" Margin="114,182,0,0" VerticalAlignment="Top" FontSize="20" Width="68" Height="30" Click="LoadBtn_Click" Grid.Column="1" Grid.RowSpan="2"/>
         <Button x:Name="SaveBtn" Content="Save" HorizontalAlignment="Left" Margin="199,182,0,0" VerticalAlignment="Top" FontSize="20" Width="68" Height="30" Click="SaveBtn_Click" Grid.Column="1" Grid.RowSpan="2" IsEnabled="False"/>
