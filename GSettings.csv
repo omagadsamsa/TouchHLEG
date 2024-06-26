@@ -6,3 +6,8 @@ Fastline Street Racing,1,0,0,0,60,60,10,Controller Mapping: [A = accelerate] [B 
 Mystery Mania,1,0,0,0,60,60,10, 
 Donut Games,0,0,0,0,60,60,10, 
 Wolfenstein 3D,0,0,0,0,60,60,10, 
+KataDama (I Love Katamari),0,4,0,0,60,60,10,
+Wolfenstein RPG,1,4,0,0,60,60,10, Controller Mapping: [A = fire]
+Doom II RPG,1,4,0,0,60,60,10, Controller Mapping [A =fire]
+Tony Hawk's Pro Skater 2,1,4,0,0,60,60,10, Controller mapping: [A = jump]
+Warrior Nation Blade,1,1,4,0,0,60,60,10, Controller mapping: {A = jump]
